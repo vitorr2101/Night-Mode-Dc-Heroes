@@ -1,4 +1,4 @@
-
+/*lang="pt-BR"*/
 const botaonoite = document.querySelector('divbotaonoite p');
 const botaodia = document.querySelector('divbotaodia p')
 const fundo = document.querySelector('body');
