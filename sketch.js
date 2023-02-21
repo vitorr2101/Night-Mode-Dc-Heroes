@@ -23,6 +23,6 @@ botaonoite.onclick = function(ativamodoescuro){
 botaodia.onclick = function(ativamodoclaro){ 
    (fundo.classList.remove('estiloescurobody')||texto.classList.remove('estiloescurotexto')||titulo.classList.remove('fundoescuroh1'))||(imgsuperman.classList.remove('hiddenimgsuper'))||(imgbatman.classList.add('hiddenimgbat'))
 }
-console.log(click)
+console.log(botaonoite.onclick)
 
  
