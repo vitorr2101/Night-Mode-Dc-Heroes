@@ -3,7 +3,7 @@ const botaonoite = document.querySelector('divbotaonoite p');
 const botaodia = document.querySelector('divbotaodia p')
 const fundo = document.querySelector('body');
 
-const texto = document.querySelector('header p');
+const texto = document.querySelector('main p');
 const titulo = document.querySelector('h1');
 
 const estiloclarotexto = document.getElementsByClassName('estiloclarotexto')
