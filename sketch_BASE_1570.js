@@ -23,20 +23,6 @@ botaonoite.onclick = function(ativamodoescuro){
 botaodia.onclick = function(ativamodoclaro){ 
    (fundo.classList.remove('estiloescurobody')||texto.classList.remove('estiloescurotexto')||titulo.classList.remove('fundoescuroh1'))||(imgsuperman.classList.remove('hiddenimgsuper'))||(imgbatman.classList.add('hiddenimgbat'))
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-console.log (click)
-=======
-=======
->>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
-=======
->>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
-console.log(botaonoite.onclick)
 
->>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
-=======
->>>>>>> b9b63f18f3bfdcc771b5b1c2abcb07295fd30470
  
