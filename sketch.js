@@ -25,9 +25,12 @@ botaodia.onclick = function(ativamodoclaro){
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 console.log (click)
 =======
+=======
+>>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
 =======
 >>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
 console.log(botaonoite.onclick)
