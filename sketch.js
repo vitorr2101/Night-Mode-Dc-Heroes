@@ -24,9 +24,12 @@ botaodia.onclick = function(ativamodoclaro){
    (fundo.classList.remove('estiloescurobody')||texto.classList.remove('estiloescurotexto')||titulo.classList.remove('fundoescuroh1'))||(imgsuperman.classList.remove('hiddenimgsuper'))||(imgbatman.classList.add('hiddenimgbat'))
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 console.log (click)
 =======
+=======
+>>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
 console.log(botaonoite.onclick)
 
 >>>>>>> 26f44bd25d6341b6fa26a24a958cc9f29ac58734
